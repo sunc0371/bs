@@ -1,20 +1,3 @@
-# DAOcc
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/daocc-3d-object-detection-assisted-multi/prediction-of-occupancy-grid-maps-on-occ3d)](https://paperswithcode.com/sota/prediction-of-occupancy-grid-maps-on-occ3d?p=daocc-3d-object-detection-assisted-multi)
-
-> **DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction 
-> [[`arxiv`](https://arxiv.org/abs/2409.19972)]**
-> <br> Zhen Yang, Heng Wang, Yanpeng Dong
-> <br> Beijing Mechanical Equipment Institute, Beijing, China
-
-This is the official implementation of DAOcc. DAOcc is a novel multi-modal occupancy prediction framework that leverages 3D object detection to assist in achieving superior performance while using a deployment-friendly image encoder and practical input image resolution.
-
-![](figs/overview.jpg)
-
-## News
-
-* **2025-01-31**: Release the model weights and the first version of the code.
-* **2024-10-01**: Our preprint is available on [arXiv](https://arxiv.org/abs/2409.19972).
 
 ## Experimental results
 
