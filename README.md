@@ -31,16 +31,6 @@
 - [Prepare Dataset](docs/data.md)
 - [Train and Eval](docs/run.md)
 
-## Citation
-
-```bibtex
-@article{yang2024daocc,
-  title={DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction},
-  author={Yang, Zhen and Dong, Yanpeng and Wang, Heng},
-  journal={arXiv preprint arXiv:2409.19972},
-  year={2024}
-}
-```
 
 ## Acknowledgements
 
